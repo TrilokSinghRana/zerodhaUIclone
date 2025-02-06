@@ -1,0 +1,26 @@
+.nav{
+ display: flex;
+ flex-direction: row;
+}
+li{
+  display: inline-block;
+}
+li a{
+  color:rgba(131, 127, 127, 0.981);
+  margin-right: 50px;
+  text-decoration: none;
+  font-weight: 500;
+}
+.options{
+  position: relative;
+  left:40%;
+}
+img{
+  height:30px;
+  width:120px;
+}
+.image{
+  position:relative;
+  left:20%;
+  top:10px;
+}
